@@ -18,62 +18,62 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Email address(es):"></TextView>
+                android:text="Email address(es):" />
 
             <EditText
                 android:id="@+id/etEmails"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"></EditText>
+                android:layout_height="wrap_content" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Hateful Intro:"></TextView>
+                android:text="Hateful Intro:" />
 
             <EditText
                 android:id="@+id/etIntro"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"></EditText>
+                android:layout_height="wrap_content" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Person's name"></TextView>
+                android:text="Person's name" />
 
             <EditText
                 android:id="@+id/etName"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"></EditText>
+                android:layout_height="wrap_content" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Stupid Things that this Person does"></TextView>
+                android:text="Stupid Things that this Person does" />
 
             <EditText
                 android:id="@+id/etThings"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"></EditText>
+                android:layout_height="wrap_content" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="What you want to do to this person:"></TextView>
+                android:text="What you want to do to this person:" />
 
             <EditText
                 android:id="@+id/etAction"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"></EditText>
+                android:layout_height="wrap_content" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Hateful Outro"></TextView>
+                android:text="Hateful Outro" />
 
             <EditText
                 android:id="@+id/etOutro"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"></EditText>
+                android:layout_height="wrap_content" />
         </LinearLayout>
     </ScrollView>
 
@@ -87,7 +87,7 @@
             android:id="@+id/bSentEmail"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:text="Send Email"></Button>
+            android:text="Send Email" />
     </LinearLayout>
 
     <LinearLayout
@@ -99,6 +99,6 @@
         <AnalogClock
             android:id="@+id/analogClock1"
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent"></AnalogClock>
+            android:layout_height="fill_parent" />
     </LinearLayout>
 </LinearLayout>

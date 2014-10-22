@@ -73,7 +73,7 @@
             <intent-filter>
                 <action android:name="com.example.cveki.ABOUT" />
 
-                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intenct.category.DEFAULT" />
             </intent-filter>
         </activity>
 
